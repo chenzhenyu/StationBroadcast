@@ -11,9 +11,9 @@
             "limitSpeed":60,
             "overSpeed":70
         },
-        "judgeDistance":{//outStationDistance need to be less rhan inStationDistance
-            "inStationDistance":100,
-            "outStationDistance":80
+        "judgeDistance":{//"inStationDistance" need to be less than "outStationDistance"
+            "inStationDistance":80,
+            "outStationDistance":100
         },
         "upgoingStations":[
             {
